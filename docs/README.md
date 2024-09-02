@@ -4,13 +4,9 @@
 
 |key|value|
 |---|---|
-|氏名||
-|生年月日||
-|Twitter||
-|Qiita||
-|note||
-|Zenn||
-|SpeakerDeck||
+|生年月日|1992年12月25日|
+|X|https://x.com/yusuke1225math2/|
+|Hatena Blog|https://yusuke1225math2.hatenablog.com/|
 
 ---
 
