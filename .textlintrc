@@ -12,7 +12,7 @@
         "max": 3
       },
       "max-kanji-continuous-len": {
-        "max": 6
+        "max": 10
       },
       "arabic-kanji-numbers": true,
       "no-mix-dearu-desumasu": {
@@ -85,7 +85,7 @@
       "4.2.7.コロン(:)": true,
       "4.2.8.セミコロン(;)": true,
       "4.2.9.ダッシュ(-)": true,
-      "4.3.1.丸かっこ（）": true,
+      "4.3.1.丸かっこ（）": false,
       "4.3.2.大かっこ[]": true,
       "4.3.3.かぎかっこ「」": true,
       "4.3.4.二重かぎかっこ『』": true,
@@ -112,7 +112,7 @@
       "periodMarks": [
         ".",
         "。",
-        "．"
+        "．",
       ],
       "ignoreLinkEnd": true,
       "allowPeriodMarks": [],
