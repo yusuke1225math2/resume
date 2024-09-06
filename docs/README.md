@@ -386,6 +386,7 @@ M&A コンサル企業が営業に利用する企業データベースの作成
 |AWS|4 ヶ月|
 |Salesforce|3 ヶ月|
 |Kintone|3 ヶ月|
+|WordPress|8 年|
 |React|学習中|
 |Next.js|学習中|
 |GitHubActions|学習中|
